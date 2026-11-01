@@ -1,0 +1,6 @@
+{
+  "name": "ScreenCraft Studio - Multi-Screen Prototype & Hotlink Hub",
+  "description": "Interactive multi-screen application prototype with device frames, screen flows, and HTML hotlink rendering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
